@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>toyua’s New  Site</title>
+    <link>https://toyua.github.io/</link>
+    <description>Recent content on toyua’s New  Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Oct 2019 16:47:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://toyua.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First One</title>
+      <link>https://toyua.github.io/post/first/</link>
+      <pubDate>Sat, 05 Oct 2019 16:47:35 +0800</pubDate>
+      
+      <guid>https://toyua.github.io/post/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About US Root</title>
+      <link>https://toyua.github.io/about/</link>
+      <pubDate>Fri, 04 Oct 2019 10:32:09 +0800</pubDate>
+      
+      <guid>https://toyua.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test post</title>
+      <link>https://toyua.github.io/post/test/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://toyua.github.io/post/test/</guid>
+      <description>echo &amp;quot;hello world !!&amp;quot;  </description>
+    </item>
+    
+  </channel>
+</rss>
